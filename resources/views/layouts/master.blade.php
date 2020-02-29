@@ -76,7 +76,5 @@
             @yield('content')
         </main>
     </div>
-
-    @include('layouts.partials.scripts')
 </body>
 </html>
